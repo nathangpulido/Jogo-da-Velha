@@ -23,7 +23,7 @@ JavaScript
 📦 Instalação
 
 Clone o repositório
-git clone https://github.com/nathangpulido/Jogo-da-Velha.git
+git clone https://github.com/nathangpulido/Jogo-da-Velha/tree/master
 
 # Acesse a pasta do projeto
 cd Jogo-da-Velha
